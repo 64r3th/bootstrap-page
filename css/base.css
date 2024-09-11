@@ -1,1 +1,37 @@
-/*# sourceMappingURL=base.css.map */
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url(../images/beginners-guide-world-coding-webp.webp);
+}
+
+.torso {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #ffffff;
+}
+
+.logo .col {
+  font-size: 0px;
+}
+.logo span {
+  font-size: 125px;
+}
+.logo .purple {
+  color: #8b38ff;
+}
+
+.start {
+  background-color: #8b38ff;
+  border-radius: 25px;
+  padding: 10px;
+}
+.start a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+footer {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  background-color: #f5f5f5;
+}/*# sourceMappingURL=base.css.map */
